@@ -59,13 +59,13 @@ th, td {
 }
 
 .layer-switcher {
-    top: 20em;
+    top: 30em;
     right: 0.5em;
     text-align: left;
 }
 
 /*Aplicando media query para el desplazamiento del panel en pantallas moviles */
-@media (max-width: 720px) {
+@media (max-width: 768px) {
     /* Estilos para teléfonos celulares */
     .layer-switcher {
       /* Estilos específicos para el elemento en dispositivos móviles */
@@ -76,7 +76,7 @@ th, td {
     }
 }
 
-@media (max-width: 420px){}
+@media (max-width: 480px){}
     .layer-switcher {
     top: 45em;
     right: 0.5em;
