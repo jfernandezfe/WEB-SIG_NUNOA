@@ -64,6 +64,17 @@ th, td {
     text-align: left;
 }
 
+@media (max-width: 768px) {
+    /* Estilos para teléfonos celulares */
+    .layer-switcher {
+      /* Estilos específicos para el elemento en dispositivos móviles */
+      top: 50em;
+      right: 0.5em;
+      text-align: left;
+      /* Otros estilos adicionales */
+    }
+}
+
 /*Aplicando media query para el desplazamiento del panel en pantallas moviles */
 
 
