@@ -76,6 +76,13 @@ th, td {
     }
 }
 
+@media (max-width: 420px){}
+    .layer-switcher {
+    top: 45em;
+    right: 0.5em;
+    text-align: left;
+}
+
 #popup-content>ul>li:nth-child(even) {
     background-color: #eee;
 }
