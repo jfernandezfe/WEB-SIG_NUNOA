@@ -78,7 +78,7 @@ th, td {
 
 @media (max-width: 480px){}
     .layer-switcher {
-    top: 45em;
+    top: 25em;
     right: 0.5em;
     text-align: left;
 }
