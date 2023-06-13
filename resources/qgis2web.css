@@ -67,7 +67,7 @@ th, td {
 @media screen and (max-width: 736px) {
     /* Agrega aquí tus estilos para pantallas de telefonos android */
     .layer-switcher {
-        top: 10em;
+        top: 5em;
         right: 0.5em;
         text-align: left;
     }
