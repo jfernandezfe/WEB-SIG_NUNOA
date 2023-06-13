@@ -54,36 +54,15 @@ th, td {
 }
 
 .layer-switcher .panel {
-    border: 4px solid rgba(0,60,136,.5) !important;
-    border-radius: 4px !important;
+    //border: 4px solid rgba(0,60,136,.5) !important;
+    //border-radius: 4px !important;
 }
 
 .layer-switcher {
-    top: 30em;
+    top: 0.5em;
     right: 0.5em;
     text-align: left;
 }
-
-@media (max-width: 768px) {
-    /* Estilos para teléfonos celulares */
-    .layer-switcher {
-      /* Estilos específicos para el elemento en dispositivos móviles */
-      top: 45em;
-      right: 0.5em;
-      text-align: left;
-      /* Otros estilos adicionales */
-    }
-}
-
-/*Aplicando media query para el desplazamiento del panel en pantallas moviles */
-
-
-/* @media (max-width: 480px){}
-    .layer-switcher {
-    top: 40em;
-    right: 0.5em;
-    text-align: left;
-} */
 
 #popup-content>ul>li:nth-child(even) {
     background-color: #eee;

@@ -1,3 +1,5 @@
+/*Estos son los styles por defecto que venian desplegados en el index...    */
+
 .ol-geocoder.gcd-gl-container {
     top: 65px!important;
     left: .5em!important;
@@ -61,6 +63,9 @@ html, body, #map {
     padding: 0;
     margin: 0;
 }
+
+
+/* Cambios personalizados...*/
 
 header {
     height: 25px; /* Ajusta el valor según tus necesidades */

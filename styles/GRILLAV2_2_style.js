@@ -1,7 +1,7 @@
 var size = 0;
 var placement = 'point';
 
-var style_GRILLAV2_9 = function(feature, resolution){
+var style_GRILLAV2_2 = function(feature, resolution){
     var context = {
         feature: feature,
         variables: {}
