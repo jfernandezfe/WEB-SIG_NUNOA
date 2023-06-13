@@ -20,7 +20,7 @@
 .layer-switcher .panel {
     padding: 0 1em 0 0;
     margin: 0;
-    border: 4px solid #eee;
+    border: 4px solid #eeeeee;
     border-radius: 4px;
     background-color: white;
     display: none;
@@ -48,7 +48,7 @@
 }
 
 .layer-switcher button:focus, .layer-switcher button:hover {
-    background-color: white;
+    background-color: rgb(255, 255, 255);
 }
 
 .layer-switcher ul {
