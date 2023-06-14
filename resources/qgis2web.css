@@ -34,7 +34,7 @@ th, td {
     max-height:400px;
     overflow: auto;      
 }
-
+                        
 .ol-popup-closer {
     text-decoration: none;
     position: absolute;
@@ -73,7 +73,7 @@ th, td {
     }
 
     
-  }
+}
 
 #popup-content>ul>li:nth-child(even) {
     background-color: #ffffffaf;
