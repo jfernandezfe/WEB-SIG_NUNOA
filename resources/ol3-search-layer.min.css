@@ -1,9 +1,12 @@
 .search-layer{
     top:65px;
     left:.5em
-}.ol-touch .search-layer{
+}
+
+.ol-touch .search-layer{
     top:80px
-}.search-layer button{
+}
+.search-layer button{
     background-repeat:no-repeat;
     background-position:center center;
     top:2px;

@@ -66,6 +66,8 @@ html:not([dir=rtl])
     height:0
 }
 
+
+
 .noUi-handle{
     -webkit-backface-visibility:hidden;
     backface-visibility:hidden;
