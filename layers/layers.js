@@ -42,10 +42,7 @@ var lyr_GRILLAV2_2 = new ol.layer.Vector({
                 interactive: false,
                 title: '<img src="styles/legend/GRILLAV2_2.png" /> GRILLA V2'
 });
-
-
-
-//NUEVA ACTUALIZACIÓN DE BUFFER 
+//NUEVA ACTUALIZACIÓN DE BUFFER 27/06/2023
 var format_BUFFERS26_1 = new ol.format.GeoJSON();
 var features_BUFFERS26_1 = format_BUFFERS26_1.readFeatures(json_BUFFERS26_1, 
             {dataProjection: 'EPSG:4326', featureProjection: 'EPSG:32719'});
